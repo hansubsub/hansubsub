@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## introduction
+## introduction👋
 안녕하세요.
 데이터 사이언스에 관심이 있습니다.
 
