@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**hansubsub/hansubsub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##introduction
+안녕하세요.
+데이터 사이언스에 관심이 있습니다.
 
-Here are some ideas to get you started:
+##Carrer
+영남대학교 컴퓨터공학과 재학중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Links
+●E-mail-han04245@naver.com
+○Blog-
+
+##
