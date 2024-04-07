@@ -11,5 +11,4 @@
 
 ○Blog-
 
-[![<hansubsub>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username_here)](https://github.com/anuraghazra/github-readme-stats)
-
+[![<hansubsub>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ㅗsubin)](https://github.com/anuraghazra/github-readme-stats)
